@@ -1,0 +1,10 @@
+// _base.scss
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: $font-family;
+    background-color: lighten($primary-color, 30%);
+  }
